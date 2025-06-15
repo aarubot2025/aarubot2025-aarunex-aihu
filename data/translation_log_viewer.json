@@ -1,0 +1,16 @@
+{
+    "fields": [
+        "timestamp",
+        "input_text",
+        "translated_text",
+        "emotion",
+        "drift_score",
+        "confidence"
+    ],
+    "features": [
+        "filter by time",
+        "emotion timeline",
+        "download CSV",
+        "see before/after comparison"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "sukoon": {
+        "language": "hi",
+        "description": "Profound peace and calm",
+        "examples": [
+            "सुकून",
+            "शांति"
+        ]
+    },
+    "ubuntu": {
+        "language": "sw",
+        "description": "Humanity towards others",
+        "examples": [
+            "Ubuntu"
+        ]
+    },
+    "mono_no_aware": {
+        "language": "ja",
+        "description": "The awareness of the impermanence of things",
+        "examples": [
+            "物の哀れ"
+        ]
+    }
+}

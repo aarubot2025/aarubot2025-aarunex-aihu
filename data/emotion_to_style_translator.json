@@ -1,0 +1,12 @@
+{
+    "style_options": [
+        "poetic",
+        "wise",
+        "child-friendly",
+        "gentle"
+    ],
+    "default_style": "gentle",
+    "example_input": "I feel sad.",
+    "translated_output": "It's okay to feel sad. 🌧️ Embrace your feelings, little one.",
+    "notes": "Emotion-to-style conversion based on user profile and emotional state."
+}

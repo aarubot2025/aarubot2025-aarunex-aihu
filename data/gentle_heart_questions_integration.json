@@ -1,0 +1,15 @@
+{
+    "questions": [
+        {
+            "question": "What are you feeling right now?",
+            "type": "emotion",
+            "usage": "Prompt emotional reflection"
+        },
+        {
+            "question": "How can you transform this feeling?",
+            "type": "action",
+            "usage": "Guide transformation"
+        }
+    ],
+    "integration_notes": "The questions can be dynamically injected into translations based on emotional tone."
+}

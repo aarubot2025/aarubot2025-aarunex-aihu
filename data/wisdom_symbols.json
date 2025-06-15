@@ -1,0 +1,27 @@
+{
+    "karma": {
+        "origin": "Sanskrit",
+        "meaning": "Action and its consequence",
+        "symbol": "⚖️"
+    },
+    "satori": {
+        "origin": "Japanese",
+        "meaning": "Sudden enlightenment",
+        "symbol": "💡"
+    },
+    "bhakti": {
+        "origin": "Sanskrit",
+        "meaning": "Devotion or spiritual love",
+        "symbol": "🙏"
+    },
+    "taqwa": {
+        "origin": "Arabic",
+        "meaning": "Consciousness of the Divine",
+        "symbol": "🕋"
+    },
+    "ubuntu": {
+        "origin": "Nguni Bantu",
+        "meaning": "Humanity toward others",
+        "symbol": "🤝"
+    }
+}

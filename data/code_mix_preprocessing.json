@@ -1,0 +1,6 @@
+{
+    "example_input": "How are you? मुझे बहुत अच्छा लग रहा है।",
+    "detected_language": "Hinglish",
+    "notes": "Code-mixing detected: English + Hindi.",
+    "detection_method": "Custom-trained ML model (requires implementation)."
+}

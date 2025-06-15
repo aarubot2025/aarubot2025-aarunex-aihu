@@ -1,0 +1,16 @@
+{
+    "triggers": [
+        {
+            "condition": "confidence_score < 0.7",
+            "action": "Activate gentleHeartQuestions"
+        },
+        {
+            "condition": "emotion == 'negative'",
+            "action": "Offer nurturing rewrite"
+        },
+        {
+            "condition": "drift_index > 0.2",
+            "action": "Flag for semantic integrity check"
+        }
+    ]
+}

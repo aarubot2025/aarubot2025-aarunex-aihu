@@ -1,0 +1,15 @@
+{
+    "sensitivity_threshold": 0.8,
+    "patterns_flagged": [
+        "colonial phrasing",
+        "unconscious bias",
+        "emotional invalidation",
+        "trauma triggers"
+    ],
+    "actions": [
+        "soften",
+        "rephrase",
+        "alert",
+        "skip"
+    ]
+}

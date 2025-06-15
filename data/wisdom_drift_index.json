@@ -1,0 +1,15 @@
+{
+    "wisdom_loss_threshold": 0.2,
+    "examples": [
+        {
+            "text": "I love you",
+            "back_translation_diff": 0.1,
+            "remarks": "Minimal wisdom loss"
+        },
+        {
+            "text": "Life is beautiful",
+            "back_translation_diff": 0.3,
+            "remarks": "Moderate wisdom drift"
+        }
+    ]
+}

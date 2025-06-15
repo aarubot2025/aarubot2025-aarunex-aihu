@@ -1,0 +1,16 @@
+{
+  "name": "aarunex",
+  "version": "1.0.0",
+  "description": "Dharmic Wisdom-Guided AI System",
+  "main": "aarunex-server.js",
+  "scripts": {
+    "start": "node aarunex-server.js",
+    "dev": "nodemon aarunex-server.js",
+    "test": "node test/run-tests.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^2.0.1"
+  }
+}

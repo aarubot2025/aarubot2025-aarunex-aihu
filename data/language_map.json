@@ -1,0 +1,52 @@
+{
+    "en": {
+        "name": "English",
+        "family": "Germanic",
+        "scripts": [
+            "Latin"
+        ],
+        "formality_levels": 3
+    },
+    "hi": {
+        "name": "Hindi",
+        "family": "Indo-European",
+        "scripts": [
+            "Devanagari"
+        ],
+        "formality_levels": 4
+    },
+    "fr": {
+        "name": "French",
+        "family": "Romance",
+        "scripts": [
+            "Latin"
+        ],
+        "formality_levels": 4
+    },
+    "es": {
+        "name": "Spanish",
+        "family": "Romance",
+        "scripts": [
+            "Latin"
+        ],
+        "formality_levels": 3
+    },
+    "ja": {
+        "name": "Japanese",
+        "family": "Japonic",
+        "scripts": [
+            "Hiragana",
+            "Katakana",
+            "Kanji"
+        ],
+        "formality_levels": 6
+    },
+    "sw": {
+        "name": "Swahili",
+        "family": "Niger-Congo",
+        "scripts": [
+            "Latin"
+        ],
+        "formality_levels": 3
+    }
+}

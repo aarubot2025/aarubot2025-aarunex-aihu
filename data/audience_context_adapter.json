@@ -1,0 +1,16 @@
+{
+    "contexts": [
+        "child",
+        "elder",
+        "peer",
+        "mentor",
+        "spiritual_leader"
+    ],
+    "example_rules": {
+        "child": "Use simpler, warmer language. Avoid complex metaphors.",
+        "elder": "Use respectful tone. Include cultural references.",
+        "peer": "Use collaborative language. Friendly, open-ended.",
+        "mentor": "Use affirmations, reflections, guiding questions.",
+        "spiritual_leader": "Honor silence, humility, and symbolic depth."
+    }
+}

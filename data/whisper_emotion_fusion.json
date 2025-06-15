@@ -1,0 +1,13 @@
+{
+    "requires": [
+        "Whisper model",
+        "voiceEmotionAnalyzer.js"
+    ],
+    "pipeline": [
+        "Audio Input (.wav, .mp3)",
+        "→ Whisper: Transcribe",
+        "→ Emotion Analyzer: Detect stress, tone",
+        "→ LWL: Translate with emotion + tone mapping"
+    ],
+    "status": "planned"
+}
